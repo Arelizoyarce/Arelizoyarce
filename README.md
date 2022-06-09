@@ -26,13 +26,3 @@ Front-End Developer
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Arelizoyarce" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arelizoyarce/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Arelizoyarce/LIM017-social-network" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arelizoyarce&repo=LIM017-social-network&title_color=22c55e&text_color=ec4899&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Arelizoyarce/LIM017-data-lovers" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arelizoyarce&repo=LIM017-data-lovers&title_color=22c55e&text_color=ec4899&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Arelizoyarce/LIM017-md-links" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arelizoyarce&repo=LIM017-md-links&title_color=22c55e&text_color=ec4899&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Arelizoyarce/LIM017-card-validation" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Arelizoyarce&repo=LIM017-card-validation&title_color=22c55e&text_color=ec4899&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en" /></a></div>

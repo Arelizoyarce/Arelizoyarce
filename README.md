@@ -3,7 +3,7 @@
 ## 🚀 Sobre mi 
 ### Front-End Developer Junior 💻
 <img align='right' src="https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif" width="400"/>
-Amo todo lo que permita crear y aportar mi granito de arena para mejorar al mundo, es gracias a esto que decidí emprender
+Amo todo lo que permita crear y aportar mi granito de arena para mejorar al mundo, es gracias a eso que decidí emprender
 mi camino en el código, el autoaprendizaje consciente y la  evolución constante como principio fundamental de vida.
 Mi primer paso en el mundo de la tecnología lo dí de la mano de [![Laboratoria](https://www.laboratoria.la), no puedo haber mejor comienzo ✨
 

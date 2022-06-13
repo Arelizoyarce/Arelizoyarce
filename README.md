@@ -7,7 +7,10 @@ mi camino en el código, el autoaprendizaje consciente y la
 evolución constante como principio fundamental de vida.
 Mi primer paso en el mundo de la tecnología lo dí de la mano
 de [Laboratoria](https://www.laboratoria.la/), no puedo haber
-mejor comienzo ✨ ![](https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif)
+mejor comienzo ✨
+<p>
+<img src="https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif" width="70" height="90"/>
+</p>
 
 ### Skills
 

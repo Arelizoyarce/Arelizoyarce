@@ -7,7 +7,7 @@ para mejorar al mundo, es gracias a esto que decidí emprender
 mi camino en el código, el autoaprendizaje consciente y la 
 evolución constante como principio fundamental de vida.
 Mi primer paso en el mundo de la tecnología lo dí de la mano
-de [Laboratoria](https://www.laboratoria.la/), no puedo haber
+de ![Laboratoria](https://www.laboratoria.la/) , no puedo haber
 mejor comienzo ✨
 
 

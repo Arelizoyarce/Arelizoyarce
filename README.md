@@ -1,6 +1,7 @@
 # console.log('¡Hola mundo!')
 
 ## Front-End Developer Junior 💻
+<p display="flex">
 Amo todo lo que permita crear y aportar mi granito de arena
 para mejorar al mundo, es gracias a esto que decidí emprender
 mi camino en el código, el autoaprendizaje consciente y la 
@@ -8,8 +9,9 @@ evolución constante como principio fundamental de vida.
 Mi primer paso en el mundo de la tecnología lo dí de la mano
 de [Laboratoria](https://www.laboratoria.la/), no puedo haber
 mejor comienzo ✨
-<p>
-<img src="https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif" width="70" height="90"/>
+</p>
+<p display="flex">
+<img src="https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif" width="700" height="500"/>
 </p>
 
 ### Skills

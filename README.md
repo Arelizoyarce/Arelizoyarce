@@ -1,13 +1,13 @@
-¡Hola! 👋 Soy Areliz
-=======================
+# console.log('¡Hola mundo!')
 
-Front-End Developer
--------------------
-
-* 🌍  I'm based in Lima, Perú
-* ✉️  You can contact me at [oyarceareliz@gmail.com](mailto:oyarceareliz@gmail.com)
-* 🧠  I'm learning Angular framework
-* ⚡  In my free time I like to write
+## Front-End Developer Junior 💻
+Amo todo lo que permita crear y aportar mi granito de arena
+para mejorar al mundo, es gracias a esto que decidí emprender
+mi camino en el código, el autoaprendizaje consciente y la 
+evolución constante como principio fundamental de vida.
+Mi primer paso en el mundo de la tecnología lo dí de la mano
+de [Laboratoria](https://www.laboratoria.la/), no puedo haber
+mejor comienzo ✨ ![](https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif)
 
 ### Skills
 

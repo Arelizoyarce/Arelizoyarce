@@ -1,4 +1,4 @@
-Hi 👋 My name is Areliz
+¡Hola! 👋 Soy Areliz
 =======================
 
 Front-End Developer
